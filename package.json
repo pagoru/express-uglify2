@@ -1,7 +1,7 @@
 {
   "name": "express-uglify2",
   "description": "Express.js view engine plugin for Uglify JS",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "author": "Pablo Gonzalez (http://www.github.com/pagoru), grayleonard (http://www.github.com/grayleonard), Nick Crohn <ncrohn@me.com> (http://www.github.com/ncrohn)",
   "main": "./index",
   "directories": {
