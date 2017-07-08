@@ -18,9 +18,7 @@ The Express Uglify middleware intercepts JS file calls and runs them through the
 
     var expressUglify = require('express-uglify');
     app.use(expressUglify.middleware({ 
-      src: __dirname + '/public',
-      logLevel: 'info',
-      logger: new (winston.Logger)() // Specify your own winston logger or category
+      src: __dirname + '/public'
     }));
 
 ### MIT LICENSE
